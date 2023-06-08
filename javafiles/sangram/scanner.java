@@ -1,4 +1,4 @@
-package javafiles.sangram;
+//package javafiles.sangram;
 
 import java.util.Scanner;
 
