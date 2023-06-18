@@ -13,7 +13,11 @@ public class Practise {
 //          b=(byte)(b*2);
 //        int n='A';
 //        System.out.println(n);
-        System.out.println(8+90);
+//        System.out.println(8+90);
+          char c='a';
 
+
+          int a =5;
+        System.out.println(c/a);
     }
 }
