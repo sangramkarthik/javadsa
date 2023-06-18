@@ -15,9 +15,10 @@ public class Practise {
 //        System.out.println(n);
 //        System.out.println(8+90);
           char c='a';
+          String f = "hello";
 
 
           int a =5;
-        System.out.println(c/a);
+        System.out.println(a+c);
     }
 }
