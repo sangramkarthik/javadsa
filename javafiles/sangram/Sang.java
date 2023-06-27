@@ -5,7 +5,7 @@ public class Sang {
     Scanner input = new Scanner(System.in);
     System.out.print("Enter your Name: ");
     String Name = input.nextLine();
-    System.out.println("Your Name is "+Name);
+    System.out.println("Your Name is "+Name+".");
 
   }
 }
