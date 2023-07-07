@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class Square {
   public static void main(String[] args) {
+    System.out.println("Area of Square");
     Scanner input = new Scanner(System.in);
     System.out.print("Input the Length of the Side of the Square : ");
     int side = input.nextInt();
