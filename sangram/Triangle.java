@@ -4,10 +4,10 @@ public class Triangle {
     System.out.println("Area of Triangle");
     Scanner input = new Scanner(System.in);
     System.out.print("Input the Base of the Triangle : ");
-    float base = input.nextInt();
+    double base = input.nextDouble();
     System.out.print("Input the Height of the Triangle : ");
-    float height = input.nextInt();
-    float area = (base*height)*0.5;
+    double height = input.nextDouble();
+    double area = (base*height)/2;
     System.out.println("The Area of the Triangle is "+area+".");
 
     
